@@ -1,10 +1,16 @@
 _repo: A-Tramp-s-Scraps_50558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50558-h/images/cover.jpg
 creator:
   author:
     agent_name: Self, H. I. M.
     gutenberg_agent_id: '45975'
     url: http://www.gutenberg.org/2009/agents/45975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50558#A-Tramp-s-Scraps
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
